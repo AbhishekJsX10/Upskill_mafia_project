@@ -1,0 +1,21 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family:"popins";
+}
+html,body{
+  width: 100%;
+  height: 100%;
+}
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, strong, span, .NavLink {
+  font-family: 'Poppins', sans-serif;
+}
+
+.custom-class {
+  font-family: 'Poppins', sans-serif;
+}
